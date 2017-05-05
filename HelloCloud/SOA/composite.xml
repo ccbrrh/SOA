@@ -21,7 +21,7 @@
       <binding.ws port="http://xmlns.oracle.com/HelloWorldDemoApp/HelloCloud/BPELProcess1#wsdl.endpoint(bpelprocess1_client_ep/BPELProcess1Callback_pt)"/>
     </callback>
   </service>
-  <property name="productVersion" type="xs:string" many="false">12.2.1.0.0.151013</property>
+  <property name="productVersion" type="xs:string" many="false">12.2.1.0.0.15101</property>
   <property name="compositeID" type="xs:string" many="false">d638a382-9a10-4e57-816c-0bf6303cd06e</property>
   <component name="BPELProcess1" version="2.0">
     <implementation.bpel src="BPEL/BPELProcess1.bpel"/>
