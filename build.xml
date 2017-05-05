@@ -30,6 +30,7 @@
      <property name="password" value="${password}"/>
      <property name="user" value="${user}"/>
      <property name="overwrite" value="${overwrite}"/>
+     <property name="partition" value="${partition}"/>
    </ant>
   </target>
 </project>
